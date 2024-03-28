@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|c:\\users\\joyce-cabral\\desktop\\projetos api\\apicatalogo\\apicatalogo\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|c:\\users\\joyce-cabral\\desktop\\projetos api\\apicatalogo\\apicatalogo\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|c:\\users\\joyce-cabral\\desktop\\projetos api\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|c:\\users\\joyce-cabral\\desktop\\projetos api\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|c:\\users\\joyce-cabral\\desktop\\projetos api\\apicatalogo\\apicatalogo\\apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C757262F-9AED-447B-9832-C49FD1C681EE}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\Entities\\Categoria.cs",
+              "RelativeToolTip": "APICatalogo\\Entities\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:33:47.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
+              "ToolTip": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeToolTip": "APICatalogo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:25:51.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T18:18:04.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\Entities\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Entities\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:09:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APICatalogo.csproj",
+              "DocumentMoniker": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+              "RelativeDocumentMoniker": "APICatalogo\\APICatalogo.csproj",
+              "ToolTip": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+              "RelativeToolTip": "APICatalogo\\APICatalogo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T17:26:44.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

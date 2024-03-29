@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KLQzxxdXLEr2CKjTrLpQRysBDeVVhomHNKlUcIFGaBo6Rl8ylE8zkhtvV0r9lS+gXX1LqQtaw3T6HPGofDgrA==",
+  "dgSpecHash": "63foNUU8QRo3xu0n/NVeFWOEGme4uZwe/UYUifFeyKpSl4W0nMfv96eptem7P5ndKRo11OtOaKLYkn3xjCWGQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\Users\\Joyce-Cabral\\Desktop\\ProjetosAPI\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joyce-Cabral\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Joyce-Cabral\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

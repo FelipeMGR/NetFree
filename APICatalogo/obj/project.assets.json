@@ -2688,11 +2688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectUniqueName": "C:\\Users\\Joyce-Cabral\\Desktop\\ProjetosAPI\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
       "projectName": "APICatalogo",
-      "projectPath": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+      "projectPath": "C:\\Users\\Joyce-Cabral\\Desktop\\ProjetosAPI\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
       "packagesPath": "C:\\Users\\Joyce-Cabral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joyce-Cabral\\Desktop\\Projetos API\\APICatalogo\\APICatalogo\\obj\\",
+      "outputPath": "C:\\Users\\Joyce-Cabral\\Desktop\\ProjetosAPI\\APICatalogo\\APICatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joyce-Cabral\\AppData\\Roaming\\NuGet\\NuGet.Config",

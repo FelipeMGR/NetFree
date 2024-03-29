@@ -15,7 +15,7 @@ namespace APICatalogo.Entities
 
         public decimal Preco { get; set; }
 
-        public float Velocidade { get; set; }
+        public int Velocidade { get; set; }
         [Required]
         [StringLength(300)]
         public string? Descricao { get; set; }

@@ -42,7 +42,7 @@ namespace APICatalogo.Controllers
             return categoria;
         }
 
-        [HttpGet("{id: int}")]
+        [HttpGet("{id: int}", Name ="ObterCategoria")]
         public ActionResult<Categoria> GetId(int id)
         {
             var categoria = _context.Categoria.Find(id);
@@ -53,6 +53,52 @@ namespace APICatalogo.Controllers
             }
 
             return Ok(categoria);
+        }
+
+        [HttpPost]
+        public ActionResult NewCategory(Categoria categoria)
+        {
+            try
+            {
+                _context.Categoria.Add(categoria);
+                _context.SaveChanges();
+            }
+            catch (Exception)
+            {
+                if(categoria is null)
+                return StatusCode(StatusCodes.Status500InternalServerError, "Houve um problema ao tratar sua solicitação. Entre em contato com o desenvolvedor.");
+            }
+            return new CreatedAtRouteResult("ObterCategoria", new { id = categoria.CategoriaId }, categoria);
+        }
+
+        [HttpPut("{id: int}")]
+        public ActionResult UpdateCategory(Categoria categoria, int id)
+        {
+            if (id != categoria.CategoriaId)
+            {
+                return BadRequest("Id não encontrado.");
+            }
+
+            _context.Entry(categoria).State = EntityState.Modified;
+            _context.SaveChanges();
+
+            return Ok(categoria);
+        }
+
+        [HttpDelete("{id: int}")]
+        public ActionResult DeleteCategory(int id)
+        {
+            var categoriaDelete = _context.Categoria.Find(id);
+
+            if(categoriaDelete is null)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, "Categoria não encontrada.");
+            }
+
+            _context.Categoria.Remove(categoriaDelete);
+            _context.SaveChanges();
+
+            return Ok(categoriaDelete);
         }
     }
 
